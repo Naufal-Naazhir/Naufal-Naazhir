@@ -27,7 +27,6 @@ Saya punya pengalaman lapangan di ISP (Life Media, Jepara): memasang sekitar 20 
 
 ## Kontak
 
-- Email: naufaljpr9@gmail.com
 - LinkedIn: [linkedin.com/in/naufal-naazhir-arkaan](https://www.linkedin.com/in/naufal-naazhir-arkaan/)
 - Lokasi: Jepara, Jawa Tengah
 
