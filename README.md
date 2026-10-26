@@ -1,6 +1,7 @@
 # Halo, saya Naufal Naazhir Arkaan
 
-**IT Support & Network Support** | Fresh graduate Teknik Informatika, Universitas Islam Nahdlatul Ulama Jepara
+**Fresh graduate Teknik Informatika**, Universitas Islam Nahdlatul Ulama Jepara
+**Fokus:** IT Support & Network Support
 
 Saya punya pengalaman lapangan di ISP (Life Media, Jepara): memasang sekitar 20 perangkat pelanggan dan menangani sekitar 25 gangguan jaringan, termasuk fiber optik putus dan IP conflict. Di luar itu saya melatih kemampuan lewat lab mandiri di MikroTik, Ubuntu Server CLI, dan Bash.
 
