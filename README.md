@@ -1,16 +1,32 @@
-## Hi there 👋
+# Halo, saya Naufal Naazhir Arkaan
 
-<!--
-**Naufal-Naazhir/Naufal-Naazhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support & Network Support** | Fresh graduate Teknik Informatika, Universitas Islam Nahdlatul Ulama Jepara
 
-Here are some ideas to get you started:
+Saya punya pengalaman lapangan di ISP (Life Media, Jepara): memasang sekitar 20 perangkat pelanggan dan menangani sekitar 25 gangguan jaringan, termasuk fiber optik putus dan IP conflict. Di luar itu saya melatih kemampuan lewat lab mandiri di MikroTik, Ubuntu Server CLI, dan Bash.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyek
+
+| Proyek | Deskripsi |
+|---|---|
+| [mikrotik-virtual-enterprise-network](github.com/Naufal-Naazhir/mikrotik-virtual-enterprise-network) | Jaringan kantor virtual di MikroTik CHR: gateway LAN, DHCP, DNS relay, NAT masquerade |
+| [ubuntu-server-network-integration](github.com/Naufal-Naazhir/ubuntu-server-network-integration) | Server Ubuntu berbasis CLI yang terhubung ke jaringan MikroTik |
+| [bash-network-monitoring](github.com/Naufal-Naazhir/bash-network-monitoring) | Skrip Bash untuk memeriksa ketersediaan koneksi/layanan dan mencadangkan data |
+
+## Keahlian
+
+- **Jaringan:** TCP/IP, LAN/WAN, DHCP, DNS, NAT/Firewall, Wi-Fi, MikroTik RouterOS, Cisco Packet Tracer
+- **Fiber optik (dasar):** fusion splicing, pengukuran redaman dengan OPM
+- **Sistem:** Windows, Linux (Ubuntu Server CLI)
+- **Otomasi:** Bash scripting dasar
+
+## Sertifikasi dan pelatihan
+
+- Networking Basics, Cisco Networking Academy (Okt 2026)
+
+## Kontak
+
+- Email: naufaljpr9@gmail.com
+- LinkedIn: [linkedin.com/in/naufal-naazhir-arkaan](https://www.linkedin.com/in/naufal-naazhir-arkaan/)
+- Lokasi: Jepara, Jawa Tengah
+
+*Terbuka untuk posisi IT Support dan Network Support.*
