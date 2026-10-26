@@ -10,7 +10,7 @@ Saya punya pengalaman lapangan di ISP (Life Media, Jepara): memasang sekitar 20 
 
 | Proyek | Deskripsi |
 |---|---|
-| [mikrotik-virtual-enterprise-network](https://github.com/Naufal-Naazhir/mikrotik-virtual-enterprise-network) | Jaringan kantor virtual di MikroTik CHR: gateway LAN, DHCP, DNS relay, NAT masquerade |
+| [mikrotik-virtual-enterprise-network](https://github.com/Naufal-Naazhir/mikrotik-virtual-enterprise-network) | Jaringan kantor virtual di MikroTik CHR: gateway LAN, DHCP, DNS relay, NAT masquerade, Simple Queue |
 | [ubuntu-server-network-integration](https://github.com/Naufal-Naazhir/ubuntu-server-network-integration) | Server Ubuntu berbasis CLI yang terhubung ke jaringan MikroTik |
 | [bash-network-monitoring](https://github.com/Naufal-Naazhir/bash-network-monitoring) | Skrip Bash untuk memeriksa ketersediaan koneksi/layanan dan mencadangkan data |
 
