@@ -4,7 +4,7 @@
 
 **Fokus:** IT Support & Network Support
 
-Saya punya pengalaman lapangan di ISP (Life Media, Jepara): memasang sekitar 15 perangkat pelanggan dan menangani sekitar 25 gangguan jaringan, termasuk fiber optik putus dan IP conflict. Di luar itu saya melatih kemampuan lewat lab mandiri di MikroTik, Ubuntu Server CLI, dan Bash.
+Saya punya pengalaman magang di ISP (Life Media, Jepara): menangani sekitar 25 gangguan jaringan, termasuk fiber optik putus dan IP conflict, serta membantu pemasangan sekitar 15 perangkat pelanggan. Di luar itu saya melatih kemampuan lewat lab mandiri di MikroTik, Ubuntu Server CLI, dan Bash.
 
 ## Proyek
 
