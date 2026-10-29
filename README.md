@@ -4,7 +4,7 @@
 
 **Fokus:** IT Support & Network Support
 
-Saya punya pengalaman magang di ISP (Life Media, Jepara): menangani sekitar 25 gangguan jaringan, termasuk fiber optik putus dan IP conflict, serta membantu pemasangan sekitar 15 perangkat pelanggan. Di luar itu saya melatih kemampuan lewat lab mandiri di MikroTik, Ubuntu Server CLI, dan Bash.
+Saya punya pengalaman magang di ISP (Life Media, Jepara): menangani sekitar 20 gangguan jaringan, termasuk fiber optik putus, modem/ONT rusak, dan sinyal Wi-Fi tidak merata, serta membantu pemasangan sekitar 15 perangkat pelanggan. Di luar itu saya melatih kemampuan lewat lab mandiri di MikroTik, Ubuntu Server CLI, dan Bash.
 
 ## Proyek
 
